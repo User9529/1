@@ -51,3 +51,20 @@ python WeChat_Bill_Analysis.py
 
 
 ![9709307c886ba47f273c8d086ea5587-1024x782](https://github.com/user-attachments/assets/f2d988e7-b534-4cdf-a2f0-0df40607cb5e)
+
+
+
+下面是微信导出邮件的步骤:(从上往下按顺序)
+第一步:左上角的"账单"
+第二步:"常见问题"
+第三步:下载账单
+第四步:用于个人对账
+第五步:选择要下载的时间段
+第六步:下载并解压,ok
+![0e9b34826f13dd79e5cde9550c0bfd4](https://github.com/user-attachments/assets/f0d2ed38-705f-4945-8f79-4421fe2c588c)
+![6f93070f277a9a5b85eb00d3f34134c](https://github.com/user-attachments/assets/7639ed67-d526-4120-9aad-b22307aa0559)
+![f390a6b0bc79d8a20d362d55094e90a](https://github.com/user-attachments/assets/fd30134c-8e77-45a2-a063-9dfcfe7d1928)
+![d4f787014363a919d8421569b1557a8](https://github.com/user-attachments/assets/6277d05a-d224-4302-82a7-a4fc0accb9ff)
+![b1d1a85a76aac55800290f5b7900cf9](https://github.com/user-attachments/assets/f08490fa-9002-4522-ad8f-945e6455c761)
+![4ac7071f78faf0cfceb3da3e1d15729](https://github.com/user-attachments/assets/3d39a68f-9806-4071-9763-fe303380fdb8)
+
